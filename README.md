@@ -1,15 +1,17 @@
 <div align="center">
 
-# Hi there, I'm Aditya Anand 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06060b,50:0f1a3d,100:1e3a8a&height=220&section=header&text=Aditya%20Anand&fontSize=60&fontColor=38BDF8&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast%20%C2%B7%20Competitive%20Programmer&descAlignY=58&descSize=18&descColor=8B9DC3&animation=fadeIn" />
 
-### Full-Stack Developer · AI/ML Enthusiast · Competitive Programmer
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-06060b?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-olive-nine-46.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06060b?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://portfolio-olive-nine-46.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaanand15902@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_Anand12/)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+things+that+live+on+the+internet;Turning+%E2%98%95+into+%3C%2F%3E;ECE+student+by+degree%2C+SWE+by+passion;Currently+breaking+things+to+learn+how+they+work" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Building+things+that+live+on+the+internet;Turning+%E2%98%95+into+%3C%2F%3E;ECE+student+by+degree%2C+SWE+by+passion;Currently+breaking+things+to+learn+how+they+work" alt="Typing SVG" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1e3a8a&height=2&section=header" />
 
 </div>
 
@@ -34,7 +36,7 @@ me = AdityaAnand()
 me.say_hi()
 ```
 
-I'm an Electronics & Communication Engineering undergrad at **IIIT Surat** who fell hard for software engineering. I like taking ideas from a blank file to a deployed product — scraping data at scale, wiring up real-time systems, or shaving milliseconds off latency just because I can. When I'm not shipping code, I'm grinding DSA problems or fine-tuning AI models to be a little less wrong.
+I'm an Electronics & Communication Engineering undergrad at **IIIT Surat** who fell hard for software engineering — somewhere between studying signal processing and debugging my own code at 2 AM, I realized I'd rather build systems than just analyze them. I live for the stretch between a blank file and a deployed product: scraping data at scale, wiring up real-time systems that sync in milliseconds, or chasing down the last bit of latency just to prove I can. When I'm not shipping code, I'm deep in a DSA problem set or fine-tuning AI models — patiently teaching machines to be a little less wrong, one iteration at a time.
 
 <br>
 
@@ -199,5 +201,7 @@ I'm currently **open to opportunities** — internships, full-time roles, or int
 <img src="https://komarev.com/ghpvc/?username=Aadityaanand2002&style=for-the-badge&color=38BDF8" alt="Profile views" />
 
 ### ⭐ If you found something useful here, consider starring my repos!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0f1a3d,100:06060b&height=120&section=footer" />
 
 </div>
