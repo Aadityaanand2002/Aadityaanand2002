@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06060b,50:0f1a3d,100:1e3a8a&height=220&section=header&text=Aditya%20Anand&fontSize=60&fontColor=38BDF8&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20Enthusiast%20%C2%B7%20Competitive%20Programmer&descAlignY=58&descSize=18&descColor=8B9DC3&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06060b,50:0f1a3d,100:1e3a8a&height=220&section=header&text=Aditya%20Anand&fontSize=60&fontColor=38BDF8&fontAlignY=40&desc=Full-Stack%20Developer%20%C2%B7%20DSA%20Enthusiast%20%C2%B7%20Competitive%20Programmer&descAlignY=58&descSize=18&descColor=8B9DC3&animation=fadeIn" />
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-06060b?style=for-the-badge&logo=vercel&logoColor=38BDF8)](https://portfolio-olive-nine-46.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
@@ -10,6 +10,12 @@
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&height=50&lines=Building+things+that+live+on+the+internet;Turning+%E2%98%95+into+%3C%2F%3E;ECE+student+by+degree%2C+SWE+by+passion;Currently+breaking+things+to+learn+how+they+work" alt="Typing SVG" />
+
+<br>
+
+🚀 Aspiring Software Engineer&nbsp;&nbsp;|&nbsp;&nbsp;Final Year ECE Student @ IIIT Surat
+💻 Full-Stack Development Enthusiast&nbsp;&nbsp;|&nbsp;&nbsp;DSA&nbsp;&nbsp;|&nbsp;&nbsp;Problem Solving
+🌱 Building Projects, Solving Problems, and Learning Every Day
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:38BDF8,100:1e3a8a&height=2&section=header" />
 
@@ -22,12 +28,12 @@
 ```python
 class AdityaAnand:
     def __init__(self):
-        self.role = "B.Tech ECE Student @ IIIT Surat"
+        self.based_in = "Surat, India"
         self.cgpa = 7.96
-        self.location = "Surat, India"
-        self.focus = ["Full-Stack Development", "AI/ML", "Competitive Programming"]
-        self.currently_working_on = "Xelron — AI Data Model Evaluation"
+        self.currently = "Data Model Evaluator @ Xelron"
+        self.weapons_of_choice = ["React", "Node.js", "Python", "MongoDB"]
         self.dsa_problems_solved = "600+"
+        self.obsessed_with = "shipping ideas from blank file → deployed product"
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something great!")
@@ -36,7 +42,7 @@ me = AdityaAnand()
 me.say_hi()
 ```
 
-I'm an Electronics & Communication Engineering undergrad at **IIIT Surat** who fell hard for software engineering — somewhere between studying signal processing and debugging my own code at 2 AM, I realized I'd rather build systems than just analyze them. I live for the stretch between a blank file and a deployed product: scraping data at scale, wiring up real-time systems that sync in milliseconds, or chasing down the last bit of latency just to prove I can. When I'm not shipping code, I'm deep in a DSA problem set or fine-tuning AI models — patiently teaching machines to be a little less wrong, one iteration at a time.
+Somewhere between studying signal processing and debugging my own code at 2 AM, I realized I'd rather build systems than just analyze them. I live for the stretch between a blank file and a deployed product: scraping data at scale, wiring up real-time systems that sync in milliseconds, or chasing down the last bit of latency just to prove I can.
 
 <br>
 
@@ -110,9 +116,9 @@ I'm an Electronics & Communication Engineering undergrad at **IIIT Surat** who f
 ---
 
 ### 📅 [Social Scheduler](https://social-scheduler-one-rho.vercel.app)
-> A premium social media automation platform with AI content generation and subscription billing.
+> A premium social media automation platform with multi-platform scheduling and subscription billing.
 
-- Built an AI Content Composer with the Hugging Face Inference API, cutting content creation time by **40%**
+- Built a Content Composer using the Hugging Face Inference API to auto-generate captions and hashtags, cutting content creation time by **40%**
 - Engineered automated publishing with `node-cron`, handling **100+** scheduled image/video assets via Cloudinary
 - Shipped secure Google OAuth + JWT auth and Stripe billing with **100%** secure transactions
 
@@ -122,7 +128,7 @@ I'm an Electronics & Communication Engineering undergrad at **IIIT Surat** who f
 ---
 
 ### ⚡ [Green Trade](https://green-trade-teal.vercel.app/)
-> Peer-to-peer renewable energy trading — trade solar and wind power directly with your neighbors using AI-driven pricing.
+> Peer-to-peer renewable energy trading — trade solar and wind power directly with your neighbors using smart pricing and instant settlements.
 
 `React` `Node.js` `Express` `MongoDB` `Tailwind` `Stripe`
 [🔗 Live Demo](https://green-trade-teal.vercel.app/) · [💻 Source](https://github.com/Aadityaanand2002/green-trade)
@@ -147,8 +153,8 @@ I'm an Electronics & Communication Engineering undergrad at **IIIT Surat** who f
 
 ## 💼 Experience
 
-**AI Data Model Evaluator** · Xelron · *Feb 2026 — Present*
-Fine-tuned AI models and ran QA testing across large datasets to minimize bias and optimize training pipelines.
+**Data Model Evaluator** · Xelron · *Feb 2026 — Present*
+Evaluated and QA-tested large datasets and model outputs to minimize bias and optimize training pipelines.
 
 <br>
 
